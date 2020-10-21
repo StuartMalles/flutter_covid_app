@@ -1,0 +1,11 @@
+// no need to secure, can include in source control
+{
+    "rest-client.environmentVariables": {
+        "sandbox": {
+            "baseUrl": "https://ncov2019-admin.firebaseapp.com",
+            "authorization": "9ee9a29d78b0d45d2b5c20c2af0ad797e607b108ce2cf40a1abf45c331342ecb",
+            "accessToken": "af185832b544f89735a53bc3e12a584350373c59ae41b41163b9864bc84c208f"
+        },
+        "production": {}
+    }
+}
